@@ -17,3 +17,5 @@ What about now?
 It's awesome!
 
 It's even more awesome!
+
+Now lets do more commit changes.
