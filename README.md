@@ -12,4 +12,8 @@ This is an example of a GitHub repository.
 
 You can now make edits.
 
-What about now?
+What about now? 
+
+It's awesome!
+
+It's even more awesome!
